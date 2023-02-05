@@ -1,0 +1,12 @@
+@import "./color.scss";
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+
+    h1{
+        font:400 2rem black;
+        font-family:$text2 ;
+    }
+}

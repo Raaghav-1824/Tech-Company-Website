@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Raaghav-1824/Tech-website-React.git/static/css/main.9e442143.css",
+    "main.js": "/Raaghav-1824/Tech-website-React.git/static/js/main.726f84d0.js",
+    "static/media/4.jpg": "/Raaghav-1824/Tech-website-React.git/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/Raaghav-1824/Tech-website-React.git/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.png": "/Raaghav-1824/Tech-website-React.git/static/media/2.f9561efff3bd3330d3b9.png",
+    "index.html": "/Raaghav-1824/Tech-website-React.git/index.html",
+    "main.9e442143.css.map": "/Raaghav-1824/Tech-website-React.git/static/css/main.9e442143.css.map",
+    "main.726f84d0.js.map": "/Raaghav-1824/Tech-website-React.git/static/js/main.726f84d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e442143.css",
+    "static/js/main.726f84d0.js"
+  ]
+}

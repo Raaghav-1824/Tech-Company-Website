@@ -1,0 +1,43 @@
+@import "./color.scss";
+
+nav{
+    font-size: 1.2rem;
+    width:100%;
+    padding:1rem;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    position:sticky;
+    background-color:$first;
+    top:0%;
+    z-index: 10;
+
+
+h1{
+    // text-transform: uppercase;
+    color:$dark;
+    letter-spacing:0.1rem;
+}
+
+main{
+    width:70%;
+    display: flex;
+    justify-content:flex-end;
+}
+
+a{
+    color:$dark;
+    margin:1rem;
+    text-decoration: none;
+    &:hover{
+        color:$third;
+    }
+   
+
+}
+
+
+}
+
+
+
